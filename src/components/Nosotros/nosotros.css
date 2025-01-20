@@ -1,0 +1,17 @@
+/* Asegúrate de que estos estilos solo se apliquen a las tarjetas dentro de Nosotros */
+.nosotros .card {
+  background-color: rgba(77, 83, 247, 0.968);
+  color: rgb(41, 244, 1);
+}
+
+.nosotros .card .svg-inline--fa {
+  color: #dbf8e6; /* Color rojo para los iconos */
+}
+
+.nosotros .card .card-title {
+  color: #e7ede6; /* Texto blanco para el título */
+}
+
+.nosotros .card .card-text {
+  color: #ffffff; /* Texto blanco para el contenido */
+}

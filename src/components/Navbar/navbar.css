@@ -1,0 +1,22 @@
+.navbar {
+  display: flex;
+
+  
+background: rgb(249,249,249);
+background: linear-gradient(90deg, rgba(224, 215, 250, 0.676) 4%, rgba(26, 215, 67, 0.934) 71%);
+  border-radius: 0 0 850px 10px;
+  /* height: 150px;  */
+  /* padding: 15px 25px;  */
+  font-size: 20px;
+}
+
+
+.navbar .nav-item .nav-link {
+  color: rgb(35, 35, 35); /* Color de letra blanco */
+  font-size: 15px; /* Tamaño de fuente 15px */
+  text-decoration: none; /* Quita subrayado de los enlaces */
+}
+
+.navbar .nav-item .nav-link:hover {
+  color: #afa8a8; /* Cambia color de letra al pasar el mouse */
+}

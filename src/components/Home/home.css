@@ -1,0 +1,46 @@
+.container{
+    padding: 50px;
+    text-align: center;
+    
+    
+}
+.title-1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-top: 10px; /* Reduce el espacio superior */
+  margin-bottom: 20px; /* Reduce el espacio inferior */
+  font-size: 55px;
+  color: rgb(36, 119, 167);
+
+}
+
+.title-2 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-top: 10px; /* Ajusta según sea necesario */
+  margin-bottom: 20px; /* Ajusta según sea necesario */
+  color:rgb(13, 216, 16);
+  font-size: 55px;
+}
+
+.home{
+    
+    margin-top: 50px;
+}
+.nosotros{
+    background-color: rgba(22, 214, 102, 0.167);
+}
+
+#particles-js {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+  }
+  .banner{
+    
+    margin-top: 170px;
+    margin-bottom: 30px;
+  }
+  .information{
+    background-color: rgba(242, 229, 229, 0.555);
+    margin-top: 100px;
+  }
